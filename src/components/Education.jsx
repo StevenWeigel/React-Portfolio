@@ -21,7 +21,7 @@ const Education = () => {
                 </div>
                 <div>
                     <p className='text-2xl font-bold mt-6 sm:mt-0 duration-1000'>Extracurricular Involvement:</p>
-                    <p className='text-base sm:text-lg mt-1 sm:mt-2 mb-16 lg:mb-0 duration-1000'>During my time at North Dakota State University, I actively participated in 
+                    <p className='text-lg sm:text-lg mt-1 sm:mt-2 mb-16 lg:mb-0 duration-1000'>During my time at North Dakota State University, I actively participated in 
                     the Alpha Tau Omega fraternity, nationally recognized as the "Leadership Fraternity." Submersed in a culture 
                     that prioritized leadership development, I cultivated a diverse skill set seamlessly applicable to my 
                     career. Assuming various leadership roles, I fostered an environment conducive to collaboration and 

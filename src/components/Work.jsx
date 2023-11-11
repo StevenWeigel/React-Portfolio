@@ -23,18 +23,18 @@ const Work = () => {
                     <p className='font-bold mt-4 mb-2 sm:my-0 sm:mb-0 sm:ml-3 text-xl sm:text-2xl duration-1000'>Responsibilities:</p>
                     <div>
                         <ul>
-                            <li className='text-base sm:text-xl my-3 duration-1000'>- Implement embedded software for power electronics hardware 
+                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Implement embedded software for power electronics hardware 
                                 using proven programming techniques.</li>
-                            <li className='text-sm sm:text-xl my-3 duration-1000'>- Contribute to the development of software within an Agile environment, 
+                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Contribute to the development of software within an Agile environment, 
                                 actively participating in the entire Product Development Lifecycle. 
                                 Conduct thorough code reviews for pull requests to ensure 
                                 code quality and adherence to established standards.</li>
-                            <li className='text-sm sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
+                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
                                 Design C++ code for both the frontend and backend of a tool utilized 
                                 by our engineering team to interface with controllers via CAN.</li>
-                            <li className='text-sm sm:text-xl my-3 duration-1000'>- Conduct detailed unit, integration, and systems verification 
+                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Conduct detailed unit, integration, and systems verification 
                                 and validation using various software tools.</li>
-                            <li className='text-sm sm:text-xl mt-5 mb-20 sm:mt-7 duration-1000'>Part-time students at John Deere function as year-round interns. 
+                            <li className='text-lg sm:text-xl mt-5 mb-20 sm:mt-7 duration-1000'>Part-time students at John Deere function as year-round interns. 
                                 They assume full-time roles during the summer months and transition into 
                                 part-time positions throughout the academic year. As a part-time student, my 
                                 responsibilities closely resembled those of my full-time engineering 

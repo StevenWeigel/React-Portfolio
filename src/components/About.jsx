@@ -14,7 +14,7 @@ const About = () => {
                     <p>Hi, I'm Steven, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p className='text-base sm:text-xl mb-20 lg:mb-0 duration-1000'>I am a dedicated software engineer passionate about 
+                    <p className='text-lg sm:text-xl mb-20 lg:mb-0 duration-1000'>I am a dedicated software engineer passionate about 
                         creating exceptional solutions to improve individuals' 
                         and communities' well-being. My mission is to address 
                         intricate challenges with innovation, efficiency, and 

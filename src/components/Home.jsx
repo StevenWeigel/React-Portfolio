@@ -33,7 +33,7 @@ const Home = () => {
                 repeat={Infinity}
             />
             </h1>
-            <p className='text-[#cdd7f7] py-1 sm:py-4 max-w-[700px] sm:text-xl duration-1000'>
+            <p className='text-[#cdd7f7] text-lg py-1 sm:py-4 max-w-[700px] sm:text-xl duration-1000'>
                 Welcome to my digital portfolio, created with React JS 
                 and styled using Tailwind CSS! Explore my software 
                 engineering journey, including work experience, education, 
