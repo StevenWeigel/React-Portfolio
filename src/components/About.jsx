@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-fit sm:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
+    <div name='about' className='w-full h-fit lg:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-10'>
                 <div className='sm:text-right pb-4 sm:pb-8 pl-4 duration-1000'>
@@ -14,7 +14,7 @@ const About = () => {
                     <p>Hi, I'm Steven, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p className='text-base sm:text-xl mb-20 sm:mb-0 duration-1000'>I am a dedicated software engineer passionate about 
+                    <p className='text-base sm:text-xl mb-20 lg:mb-0 duration-1000'>I am a dedicated software engineer passionate about 
                         creating exceptional solutions to improve individuals' 
                         and communities' well-being. My mission is to address 
                         intricate challenges with innovation, efficiency, and 

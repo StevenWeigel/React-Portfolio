@@ -2,7 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-    <div name='education' className='w-full h-fit sm:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
+    <div name='education' className='w-full h-fit lg:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                 <div className='sm:text-right pb-8 pl-4 duration-1000'>
@@ -21,7 +21,7 @@ const Education = () => {
                 </div>
                 <div>
                     <p className='text-2xl font-bold mt-6 sm:mt-0 duration-1000'>Extracurricular Involvement:</p>
-                    <p className='text-base sm:text-lg mt-1 sm:mt-2 mb-16 sm:mb-0 duration-1000'>During my time at North Dakota State University, I actively participated in 
+                    <p className='text-base sm:text-lg mt-1 sm:mt-2 mb-16 lg:mb-0 duration-1000'>During my time at North Dakota State University, I actively participated in 
                     the Alpha Tau Omega fraternity, nationally recognized as the "Leadership Fraternity." Submersed in a culture 
                     that prioritized leadership development, I cultivated a diverse skill set seamlessly applicable to my 
                     career. Assuming various leadership roles, I fostered an environment conducive to collaboration and 

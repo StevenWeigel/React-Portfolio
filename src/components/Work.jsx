@@ -2,7 +2,7 @@ import React from 'react'
 
 const Work = () => {
   return (
-    <div name='work' className='w-full h-fit md:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
+    <div name='work' className='w-full h-fit lg:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
                 <div className='sm:text-right pb-4 sm:pb-8 pl-4 duration-1000'>

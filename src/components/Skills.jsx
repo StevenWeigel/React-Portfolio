@@ -8,7 +8,7 @@ import Java from '../assets/java.png'
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-fit sm:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
+    <div name='skills' className='w-full h-fit lg:h-screen bg-gradient-to-r from-[#1d2269] to-[#059e5e] text-gray-300 duration-1000'>
         
         {/*Container*/}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>

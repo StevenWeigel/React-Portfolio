@@ -5,7 +5,7 @@ import Alarm from '../assets/alarm.png'
 
 const Projects = () => {
   return (
-    <div name='projects' className='w-full: h-fit sm:h-screen text-gray-300 bg-gradient-to-r from-[#1d2269] to-[#059e5e]'>
+    <div name='projects' className='w-full: h-fit lg:h-screen text-gray-300 bg-gradient-to-r from-[#1d2269] to-[#059e5e]'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#059e5e]'>Projects</p>
