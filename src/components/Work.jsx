@@ -32,8 +32,10 @@ const Work = () => {
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
                                 Design C++ code for both the frontend and backend of a tool utilized 
                                 by our engineering team to interface with controllers via CAN.</li>
+                           {/* Commenting out this responsibility to save some space
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Conduct detailed unit, integration, and systems verification 
                                 and validation using various software tools.</li>
+                            */}
                             <li className='text-lg sm:text-xl mt-5 mb-20 sm:mt-7 duration-1000'>Part-time students at John Deere function as year-round interns. 
                                 They assume full-time roles during the summer months and transition into 
                                 part-time positions throughout the academic year. As a part-time student, my 
