@@ -13,10 +13,10 @@ const Work = () => {
                 <div className='sm:text-right mt-3 sm:mt-0 font-bold text-3xl duration-1000'>
                     <p>John Deere:</p>
                     <p className='sm:mt-2 text-xl font-normal duration-1000'>May 2021 - Current</p>
-                    <p className='text-2xl sm:text-3xl mt-3 sm:mt-10 duration-1000'>Software Engineer</p>
+                    <p className='text-xl sm:text-2xl mt-2 sm:mt-8 duration-1000'>Software Engineer</p>
                     <p className='sm:mt-1 text-xl font-normal duration-1000'>January 2023 - Current</p>
-                    <p className='text-2xl sm:text-3xl mt-3 sm:mt-7 duration-1000'>Product Engineering, </p>
-                    <p className='text-2xl sm:text-3xl duration-1000'>Part-Time Student</p>
+                    <p className='text-xl sm:text-2xl mt-2 sm:mt-8 duration-1000'>Product Engineering, </p>
+                    <p className='text-xl sm:text-2xl duration-1000'>Part-Time Student</p>
                     <p className='sm:mt-1 text-xl font-normal duration-1000'>May 2021 - January 2023</p>
                 </div>
                 <div>
@@ -25,22 +25,22 @@ const Work = () => {
                         <ul>
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Implement embedded software for power electronics hardware 
                                 using proven programming techniques.</li>
+                                <li className='text-lg sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
+                                Design C++ code for both the frontend and backend of a tool utilized 
+                                by our engineering team to interface with controllers via CAN.</li>
+                                {/*
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Contribute to the development of software within an Agile environment, 
                                 actively participating in the entire Product Development Lifecycle. 
                                 Conduct thorough code reviews for pull requests to ensure 
                                 code quality and adherence to established standards.</li>
-                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
-                                Design C++ code for both the frontend and backend of a tool utilized 
-                                by our engineering team to interface with controllers via CAN.</li>
-                           {/* Commenting out this responsibility to save some space
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Conduct detailed unit, integration, and systems verification 
                                 and validation using various software tools.</li>
-                            */}
                             <li className='text-lg sm:text-xl mt-5 mb-20 sm:mt-7 duration-1000'>Part-time students at John Deere function as year-round interns. 
                                 They assume full-time roles during the summer months and transition into 
                                 part-time positions throughout the academic year. As a part-time student, my 
                                 responsibilities closely resembled those of my full-time engineering 
                                 role, albeit at a reduced level.</li>
+                                */}
                         </ul>
                     </div>
                 </div>
