@@ -25,7 +25,15 @@ const Home = () => {
                     2500,
                     '',
                     225,
-                    'A Software Engineer',
+                    'An Embedded Software Engineer',
+                    2000,
+                    '',
+                    225,
+                    'A Lifelong Learner',
+                    1250,
+                    '',
+                    225,
+                    'An Innovator',
                     1250
                 ]}
                 wrapper="span"

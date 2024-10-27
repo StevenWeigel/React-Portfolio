@@ -31,16 +31,8 @@ const Skills = () => {
                     <p className='my-3'>C++</p>
                 </div>
                 <div className='rounded-xl shadow-md shadow-[#050d17] hover:scale-110 duration-500'>
-                    <img className='w-24 mx-auto' src={Golang} alt="Golang icon" />
-                    <p className='my-3'>Go</p>
-                </div>
-                <div className='rounded-xl shadow-md shadow-[#050d17] hover:scale-110 duration-500'>
                     <img className='w-16 mx-auto' src={Java} alt="Java icon" />
                     <p className='my-3'>Java</p>
-                </div>
-                <div className='rounded-xl shadow-md shadow-[#050d17] hover:scale-110 duration-500'>
-                    <img className='w-20 my-2 mx-auto' src={ReactImg} alt="React icon" />
-                    <p className='my-3'>React JS</p>
                 </div>
             </div>
         </div>

@@ -23,11 +23,10 @@ const Work = () => {
                     <p className='font-bold mt-4 mb-2 sm:my-0 sm:mb-0 sm:ml-3 text-xl sm:text-2xl duration-1000'>Responsibilities:</p>
                     <div>
                         <ul>
-                            <li className='text-lg sm:text-xl my-3 duration-1000'>- Implement embedded software for power electronics hardware 
-                                using proven programming techniques.</li>
-                                <li className='text-lg sm:text-xl my-3 duration-1000'>- Develop C code for programming microcontrollers. 
-                                Design C++ code for both the frontend and backend of a tool utilized 
-                                by our engineering team to interface with controllers via CAN.</li>
+                            <li className='text-lg sm:text-xl my-3 duration-1000'>As an Embedded Software Engineer, I develop C code for 
+                                Aurix TC3xx microcontrollers used in our Power Electronics hardware. I contribute to our Agile development 
+                                process by developing C/C++ tools as engineering interfaces through CAN (J1939), documenting technical specs 
+                                in Design Notes, and ensuring high-quality software releases by using thorough testing and debugging practices.</li>
                                 {/*
                             <li className='text-lg sm:text-xl my-3 duration-1000'>- Contribute to the development of software within an Agile environment, 
                                 actively participating in the entire Product Development Lifecycle. 
